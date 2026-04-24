@@ -9,7 +9,7 @@
 ---
 
 ## 🏗️ Technical Architecture
-The infrastructure follows the **Multi-Hop (Medallion) pattern** to ensure data integrity:
+The infrastructure follows the **Multi-Hop (Medallion) pattern** to ensure data integrity :
 
 <p align="center">
   <img src="Data%20Engineering%20Architecture/Cx_Diagram.jpg" width="900" alt="Architecture Diagram">
